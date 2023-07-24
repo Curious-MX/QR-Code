@@ -1,4 +1,4 @@
-#QR-Code
+# QR-Code
 A simple QR code page made using html and css
 
 This is a fully responsive page
